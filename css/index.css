@@ -1,0 +1,31 @@
+.bubble {
+	height: auto;
+	width: 100%;
+}
+
+body {
+	background-color: black;
+	color: pink;
+	font-family: helvetica;
+}
+
+.card {
+	background-color: black;
+}
+
+.progress-bar {
+	background-color: blue !important;
+}
+
+.card-footer {
+	background-color: black;
+	text-align: center;
+}
+
+.navbar {
+	background-color: red;
+}
+
+.nav-link {
+	color: black;
+}
